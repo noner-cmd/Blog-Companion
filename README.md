@@ -1,5 +1,5 @@
 ### 使用说明
-###此项目需要在 [https://github.com/noner-cmd/An-efficient-blog](此项目) 的基础上使用
+### 此项目需要在 [https://github.com/noner-cmd/Triangle-blog](此项目) 的基础上使用
 #### 一、文件目录结构要求
 1. **在根目录手动创建 `DCIM` 文件夹**，用于存储即刻图片。  
 2. 将 `index.php` 放置在 **`admin` 子文件夹**内。  
